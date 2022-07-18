@@ -1,5 +1,5 @@
 <template>
-<h1>Welcome {{title}}!!</h1>
+<h1>Welcome {{title}}!!!</h1>
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-3">
@@ -9,7 +9,7 @@
                 <table class="table">
                     <thead>
                         <tr>
-                            <th>Id</th>
+                            <th>#Id</th>
                             <th>Contact</th>
                             <th>Phone</th>
                             <th>Date added</th>
